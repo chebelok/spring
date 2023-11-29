@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 public class Second implements CommandLineRunner {
     @Override
     public void run(String... args){
-        System.out.println("Second");
+        System.out.println("Second thing");
     }
 
 }
